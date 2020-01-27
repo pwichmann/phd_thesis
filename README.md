@@ -1,4 +1,4 @@
-# Supplementary material on my PhD thesis "Towards automatically generating supply chain maps from natural language text"
+# Supplementary material
 
 This repository contains supplementary material on my PhD thesis "Towards automatically generating supply chain maps from natural language text".
 
