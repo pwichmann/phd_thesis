@@ -4,9 +4,11 @@ This repository contains supplementary material on my PhD thesis "Towards automa
 
 The material contains the following:
 
-* A detailed discussion of the potential beneficiaries of increased visibility into companies' supply chain structures
-*
-
+* Distinction between supply chain and related concepts
+* Supply chain resilience
+* A critical reflection on the value of supply chain maps
+* Inter- and intra-annotator agreement
+* Use cases of structural supply chain visibility
 
 Please see here for material supplementary to the IJPR paper and code examples:
 https://github.com/pwichmann/supply_chain_mining
