@@ -19,8 +19,14 @@ The material contains the following:
 
 The following publications resulted from the research conducted as part of the PhD.
 
-### Towards automatically generating supply chain maps from natural language text (2018)
+
+### PhD thesis "Towards automatically generating supply chain maps from natural language text" (2021)
+
+
+
+### Conference paper "Towards automatically generating supply chain maps from natural language text" (2018)
 Alexandra Brintrup, Simon Baker, Philip Woodall, and Duncan McFarlane.Towards automatically generating supply chain maps from natural language text. IFAC-PapersOnLine, 51(11):1726 – 1731, 2018. ISSN 2405-8963. 16th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2018.
+
 
 #### Link to the paper
 
@@ -29,9 +35,10 @@ https://www.sciencedirect.com/science/article/pii/S2405896318313284
 You can also contact the author here (create an 'Issue' in this repo) to get access to the manuscript.
 
 
-### Extracting supply chain maps from news articles using deep neural networks (2020)
+### Journal paper "Extracting supply chain maps from news articles using deep neural networks" (2020)
 
 Pascal Wichmann, Alexandra Brintrup, Simon Baker, Philip Woodall & Duncan McFarlane (2020) Extracting supply chain maps from news articles using deep neural networks, International Journal of Production Research, 58:17, 5320-5336, DOI: 10.1080/00207543.2020.1720925
+
 
 #### Link to the paper
 https://www.tandfonline.com/doi/abs/10.1080/00207543.2020.1720925
